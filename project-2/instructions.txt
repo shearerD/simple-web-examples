@@ -1,0 +1,18 @@
+Instructions
+------------
+
+1. Copy the "index.html", "index.css" and "logo.png" files from project 1
+2. Create a "div" element inside the "body" element
+3. Change the "position" of the above "div" element to the bottom of the screen
+4. Set the "width" of the above "div" element to the width of the screen and the "height" to 60 pixels
+5. Set the "background color" of the above "div" element to "#4e4e4e"
+6. Inside that "div" element, create 4 "div" elements with a "width" of 75 pixels and "height" the same as in point 4
+7. For each of the 4 "div" elements
+   - Change the "color" to "white" and the "background color" to "#e85b2d"
+   - Change the "font size" to 32 pixels
+   - Change the "margin" so that there is 5 pixels on the left and right, but 0 pixels on the top and bottom
+   - Change the inside text to be the number of this "div" element (i.e. if this is the first "div", then it should be
+     number "1" or if it is the last "div", then it should be "4")
+8. Align all of the above 4 "div" elements so that they are in the middle of the bottom bar
+
+Bonus: Change the "cursor" to "pointer" when hovering over the bottom buttons

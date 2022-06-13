@@ -1,0 +1,8 @@
+Instructions
+------------
+
+1. Copy the "index.html", "index.css" and "logo.png" files from project 2
+2. When hovering over the logo "img" element, increase the size of the logo by twice its original size (hint: "scale" it by 2)
+3. When hovering over any of the bottom buttons, move their position 20 pixels up (hint: "translate" the buttons in the Y direction)
+
+Bonus: Apply a "transition" to the logo and bottom buttons so that they "ease" in and out, instead of instantly changing

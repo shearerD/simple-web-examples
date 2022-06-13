@@ -1,0 +1,13 @@
+Instructions
+------------
+
+1. Create an "index.html" file
+2. Create an "index.css" file
+3. Add the "index.css" file into the "index.html" file (hint: Google "external css file in html")
+4. Set the background color of the "body" element to "#201d1c"
+5. Create a "div" element, inside the "body" element, that is vertically AND horizontally centered
+6. Add a heading inside the above "div" element with the text "Vatom Spaces" and color "#e85b2d"
+7. Add an "img" element with "logo.png" as the source
+8. Resize the above "img" element (using CSS) to have a width of 200 pixels and height of 200 pixels
+
+Bonus: Change the font to something other than "Times New Roman"
