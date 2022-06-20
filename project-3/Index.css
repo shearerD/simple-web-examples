@@ -16,6 +16,7 @@ height: 200px;
 }
 #Logo:hover{
     transform: scale(2);
+    transition: all 2s ease-in;
 }
 .Bottom{
     text-align: center;
@@ -30,6 +31,7 @@ height: 200px;
 }
 .Headers1:hover{
     transform: translateY(-20px);
+    transition: all 2s ease-in;
 }
 .Headers1{
         width: 75px;
@@ -49,6 +51,7 @@ height: 200px;
     }
     .Headers2:hover{
         transform: translateY(-20px);
+        transition: all 2s ease-in;
     }
     .Headers2{
         width: 75px;
@@ -68,6 +71,7 @@ height: 200px;
     }
     .Headers3:hover{
         transform: translateY(-20px);
+        transition: all 2s ease-in;
     }
     .Headers3{
         width: 75px;
@@ -105,4 +109,5 @@ height: 200px;
     }
     .Headers4:hover{
         transform: translateY(-20px);
+        transition: all 2s ease-in;
     }
